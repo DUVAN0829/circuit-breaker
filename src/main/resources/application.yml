@@ -16,5 +16,5 @@ resilience4j:
       default:
         timeout-duration: 3s
     instances:
-      items:
+      username:
         base-config: default
